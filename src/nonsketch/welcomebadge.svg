@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="welcomebadge.svg">
+   sodipodi:docname="welcomebadge.svg"
+   inkscape:export-filename="/home/mike/Projects/dankobadges/exports/welcomebadge.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.79980469"
+     inkscape:zoom="1.8276787"
      inkscape:cx="134.94139"
-     inkscape:cy="169.91453"
+     inkscape:cy="82.37179"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="744"
@@ -71,14 +74,14 @@
            height="60.014652"
            x="73.768013"
            y="918.57953" /></flowRegion><flowPara
-         id="flowPara3771"></flowPara></flowRoot>  </g>
+         id="flowPara3771" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Inner Badge"
      style="display:inline">
     <path
-       transform="matrix(0.82224231,0,0,0.83239345,-10.001771,810.10865)"
+       transform="matrix(0.86922758,0,0,0.87995879,-16.287586,801.97988)"
        d="m 236.3077,170.89699 a 102.52503,101.27473 0 1 1 -205.050063,0 102.52503,101.27473 0 1 1 205.050063,0 z"
        sodipodi:ry="101.27473"
        sodipodi:rx="102.52503"
